@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou mestrando em Engenharia Química<br>Estou aprendendo mais sobre a linguagem Python<br>
+Mestre em Engenharia Química<br>Estou aprendendo mais sobre a linguagem Python<br>
 
 
 ## 🌐 Socials:
